@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/java-3DDC84?style=flat-square&logo=java&logoColor=white"/
+
 <!--
 **hyunnnni/hyunnnni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
