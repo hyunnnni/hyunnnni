@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=Venom&color=AAF0D1&height=150&section=header&text=🧁Hello!welcome_hyun's_github🧁&fontColor=FFE4E1&fontSize=50&animation=fadeIn&fontAlignY=55)
 </div>
 
-
+<img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=#9B9B9B"/> <img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Springboot&logoColor=CC6699"/> <img src="https://img.shields.io/badge/JAVA-yellow?style=flat-square&logo=IntelliJidea&logoColor=000000"/> <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MariaDB&logoColor=000000"/> <img src="https://img.shields.io/badge/Gradle-gray?style=flat-square&logo=gradle&logoColor=#24A47F"/>
 
 <!--
 **hyunnnni/hyunnnni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
