@@ -16,10 +16,20 @@
 
 
 <br>
+<br>
+<br>
 
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+
+<br>
+<br>
+
+<a href="https://github.com/hyunnnni"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr">
+
+<br>
+<br>
 </div>
 <!--
 **hyunnnni/hyunnnni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
