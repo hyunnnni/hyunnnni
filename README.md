@@ -25,12 +25,21 @@
 
 <br>
 <br>
+<br>
+<br>
 
 <a href="https://github.com/hyunnnni"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr">
 
 <br>
-<br>
+
+# 가장 많이 사용한 언어
 </div>
+
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **hyunnnni/hyunnnni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
