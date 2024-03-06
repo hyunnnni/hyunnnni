@@ -32,7 +32,7 @@
 <br>
 
 <h1>💭 포트폴리오 💭</h1>
-<a href="https://www.notion.so/s-8098b186830c45cca26b415cc6207c4a#5394780ee93f41debe5ce6ecc90dd8c8" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
+<a href="https://remarkable-wind-488.notion.site/4ac99da6cc37445fa0518804dbdf6c14?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
 
 <br>
 <br>
