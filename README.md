@@ -33,6 +33,7 @@
 
 <h1>💭 포트폴리오 💭</h1>
 <a href="https://remarkable-wind-488.notion.site/4ac99da6cc37445fa0518804dbdf6c14?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
+<a href="https://www.canva.com/design/DAF9ggg7h2w/_0WbW9wlcQG2dYhqVAocJg/view?utm_content=DAF9ggg7h2w&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><img src="https://img.shields.io/badge/portfolio-ADD8E6?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=ffffff"/></a>
 
 <br>
 <br>
@@ -48,6 +49,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunnnni&layout=compact)](https://github.com/hyunnnni/github-readme-stats)
 
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GYEONGROK11&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GYEONGROK11&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GYEONGROK11&theme=graywhite&utcOffset=8)
+
+<!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=wruoma)](https://solved.ac/wruoma) -->
 
 
 <!--
