@@ -3,8 +3,12 @@
   ![header](https://capsule-render.vercel.app/api?type=Venom&color=AAF0D1&height=150&section=header&text=🧁Hello!welcome%20hyun's%20github🧁&desc=🤸‍♀️어서오세요%20경현이의%20깃허브입니다🤸‍♀️&fontColor=FFE4E1&fontSize=50&descSize=30&animation=fadeIn&fontAlignY=55&&descAlignY=90)
 
 <br>
+<br>
+<a href="https://github.com/hyunnnni"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr">
 
-# 나의 기술
+<br>
+
+<h1>🛠 기술 스택 🛠</h1>
 
 <br>
 
@@ -26,10 +30,11 @@
 <br>
 <br>
 <br>
+
+<h1>💭 포트폴리오 💭</h1>
+<a href="https://www.notion.so/s-8098b186830c45cca26b415cc6207c4a#5394780ee93f41debe5ce6ecc90dd8c8" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
+
 <br>
-
-<a href="https://github.com/hyunnnni"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr">
-
 <br>
 
   
